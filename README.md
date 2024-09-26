@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asmedas
-- 👀 I’m interested in Python
+- 👀 I’m interested in Java and Python
 - 🌱 I’m currently learning Python, Java, Css, Html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
