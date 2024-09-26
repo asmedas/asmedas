@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asmedas
 - 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Python, Java, Css, Html
+- 🌱 I’m currently learning Java, Python, Css, Html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He
